@@ -1,4 +1,4 @@
-.place__paragraph_text {
+.place__text {
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -10,26 +10,26 @@
     max-width: 484px;
     grid-area: paragraph;
   }
-  .place__paragraph_text:first-of-type {
+  .place__text:first-of-type {
       margin-bottom: 25px;
   }
   @media screen and (max-width: 1024px) {
-  .place__paragraph_text {
+  .place__text {
     max-width: 484px;
     }
   }
   @media screen and (max-width: 768px) {
-  .place__paragraph_text {
+  .place__text {
     font-size: 16px;
     line-height: 26px;
     max-width: 352px;
     }
   }
   @media screen and (max-width: 700px) {
-  .place__paragraph_text {
+  .place__text {
     max-width: 284px; 
     }
-  .place__paragraph_text:first-of-type {
+  .place__text:first-of-type {
       margin-bottom: 31px;
     }
   }
