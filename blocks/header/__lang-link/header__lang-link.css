@@ -6,11 +6,19 @@
   letter-spacing: 0em;
   text-align: right;
   padding: 0;
-  margin-top: 14px;
+  color: #FFFFFF;
+  margin: 0 48px 0 0;
+  text-decoration: none;
 }
+@media screen and (max-width: 768px) {
+  .header__lang-link {
+    margin: 0 21px 0 0;
+    }
+  }
 @media screen and (max-width: 700px) {
 .header__lang-link {
   font-size: 18px;
   line-height: 20px;
+  margin: 0 16px 0 0;
   }
 }
