@@ -1,20 +1,19 @@
 .intro__title {
-max-width: 690px;
-max-height: 58px;
-font-size: 54px;
-font-style: normal;
-font-weight: 900;
-line-height: 58px;
-letter-spacing: 0em;
-text-align: left;
-margin: 0;
-padding: 0;
+    max-width: 690px;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0;
+    padding: 0;
 }
+
 @media screen and (max-width: 700px) {
-.intro__title{
-  font-size: 32px;
-  line-height: 35px;
-  max-width: 220px;
-  max-height: max-content;
-  }    
+    .intro__title {
+        font-size: 32px;
+        line-height: 35px;
+        max-width: 220px;
+    }
 }
