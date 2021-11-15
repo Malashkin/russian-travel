@@ -1,5 +1,4 @@
 .place__text {
-    font-family: Inter;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -8,7 +7,7 @@
     text-align: left;
     margin: 0;
     padding: 0;
-    max-width: 484px;
+    max-width: max-content;
     grid-area: paragraph;
 }
 
@@ -26,7 +25,6 @@
     .place__text {
         font-size: 16px;
         line-height: 26px;
-        max-width: 352px;
     }
 }
 
