@@ -11,6 +11,10 @@
     text-decoration: none;
 }
 
+.header__lang-link:first-of-type {
+    margin: 0 0 0 12px;
+}
+
 .header__lang-link:hover {
     opacity: 0.7;
 }

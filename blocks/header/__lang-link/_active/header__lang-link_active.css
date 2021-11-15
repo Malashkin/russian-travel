@@ -1,9 +1,5 @@
 .header__lang-link_active {
     text-decoration: underline;
-    color: #FFFFFF;
-    margin: 0;
-    padding: 0;
-    max-width: 28px;
 }
 
 .header__lang-link_active:hover {
