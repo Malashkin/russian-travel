@@ -43,8 +43,8 @@
     .place {
         grid-template-columns: 320px;
         grid-template-areas: "title" "url" "image" "paragraph";
-        margin-left: 0;
-        margin-bottom: 58px;
+        margin-left: 26px;
+        margin-bottom: 43px;
         justify-content: center;
     }
 }
