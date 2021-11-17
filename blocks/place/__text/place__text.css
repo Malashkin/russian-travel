@@ -36,4 +36,7 @@
     .place__text:first-of-type {
         margin-bottom: 31px;
     }
+    .place__text:last-of-type {
+        margin-bottom: 0;
+    }
 }
