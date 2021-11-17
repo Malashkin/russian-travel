@@ -11,10 +11,3 @@
     padding: 0;
     text-transform: uppercase;
 }
-
-@media screen and (max-width: 700px) {
-    .place__url-heading {
-        line-height: 10px;
-        margin-top: 2px;
-    }
-}
